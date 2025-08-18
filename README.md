@@ -1,3 +1,11 @@
+<!-- バッジ: 必要な環境・ライセンス -->
+<p align="left">
+  <img src="https://img.shields.io/badge/node-%3E=18.0.0-brightgreen" alt="Node.js">
+  <img src="https://img.shields.io/badge/npm-%3E=9.0.0-blue" alt="npm">
+  <img src="https://img.shields.io/badge/react-18.x-blueviolet" alt="React">
+  <img src="https://img.shields.io/badge/vite-5.x-ff69b4" alt="Vite">
+  <img src="https://img.shields.io/badge/license-CC0_1.0-lightgrey" alt="License: CC0">
+</p>
 # React File Protocol 対応テンプレート
 
 React + Vite 製アプリを「file://」プロトコル（ローカルファイル直開き）でも動作させるための最小テンプレートです。
